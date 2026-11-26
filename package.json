@@ -1,1 +1,1 @@
-{"name":"hai-dang-arena","version":"3.0.0","private":true,"scripts":{"start":"node server.js"},"engines":{"node":">=18"}}
+{"name":"hai-dang-arena","version":"4.0.0","private":true,"scripts":{"start":"node server.js"},"engines":{"node":">=18"}}
